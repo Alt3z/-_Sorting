@@ -1,0 +1,1 @@
+void Vivod(int MAS[], int n);
