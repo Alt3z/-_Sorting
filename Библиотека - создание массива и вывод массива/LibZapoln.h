@@ -1,3 +1,3 @@
-void Best(int MAS[], int n);  // функция заполнение массива лучшим способом
-void Rand(int MAS[], int n);  // функция заполнение массива средним способом
-void Bad(int MAS[], int n);   // функция заполнение массива худшим способом
+void Best(int MAS[], int n);
+void Rand(int MAS[], int n);
+void Bad(int MAS[], int n);
