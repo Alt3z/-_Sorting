@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void Vivod(int MAS[], int n) // функция вывода массива
+void Vivod(int MAS[], int n) // С„СѓРЅРєС†РёСЏ РІС‹РІРѕРґР° РјР°СЃСЃРёРІР°
 {
     for (int i = 0; i < n; i++)
     {
